@@ -1,0 +1,26 @@
+.header {
+    font-family:  Helvetica, sans-serif;
+    font: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.logo {
+    font-family: 'Courier New', Courier, monospace;
+    width: 10px;
+    height: 50px;
+
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.headbar {
+    align-items: center;
+    display: inline-flex;
+    justify-content: flex-end;
+}
